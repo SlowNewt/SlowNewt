@@ -11,6 +11,3 @@ I'm **Nathan** a mainly Java Developer!
 - Twitter: @SlowNewt
 
 ⚡ Fun fact: i dont do much lol
-
-![Stats](https://github-readme-stats.vercel.app/api?username=slownewt&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slownewt)](https://github.com/slownewt/github-readme-stats)
